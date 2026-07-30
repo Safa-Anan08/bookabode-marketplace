@@ -10,8 +10,8 @@ Built with **Next.js 16**, **React 19**, **TypeScript**, **Node.js**, **Express.
 
 ## 🌟 Live Demo & Links
 
-- **Live Web Application**: [BookAbode Marketplace](https://bookabode-client.vercel.app)
-- **Backend Repository**: [BookAbode Server](https://github.com/Safa-Anan08/bookabode-server)
+- **Live Web Application**: [BookAbode Marketplace](https://book-abode.vercel.app)
+- **Backend Repository**: [BookAbode Server](https://github.com/Safa-Anan08/Book-Abode-Server)
 - **Client Repository**: [BookAbode Client](https://github.com/Safa-Anan08/bookabode-marketplace)
 
 ---
