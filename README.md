@@ -1,6 +1,8 @@
 # 📚 BookAbode - Book Marketplace Platform (Client)
 
-A modern, full-featured web application for buying, selling, renting, and managing books. Built with **Next.js 16 (App Router)**, **React 19**, **TypeScript**, and **Tailwind CSS**.
+A modern full-stack book marketplace platform where users can browse, buy, sell, and manage books through a secure and responsive web application.
+
+Built with **Next.js 16**, **React 19**, **TypeScript**, **Node.js**, **Express.js**, and **MongoDB**.
 
 ![BookAbode Preview](public/images/screenshots/bookabode-gif.gif)
 
@@ -162,9 +164,30 @@ bookabode-client/
 ```
 
 ---
+## 👨‍💻 Author
+
+**Safa Anan**  
+**Full Stack Web Developer**
+
+### Tech Expertise
+
+- Next.js
+- React
+- TypeScript
+- Node.js
+- Express.js
+- MongoDB
+
+### Connect with Me
+
+- 📧 Email: <safaanan8@gmail.com>
+- 💼 LinkedIn: <https://www.linkedin.com/in/safa-anan-/>
+- 🌐 Portfolio: <https://portfolio-rust-xi-72.vercel.app/>
+
+---
 
 ## 📄 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 Developed with ❤️ by **Safa Anan**.
